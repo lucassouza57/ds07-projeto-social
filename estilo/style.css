@@ -24,12 +24,13 @@ main {
 #telefone {
     position: absolute;
     top: 50%;
-    left: 40%;
+    left: 50%;
     transform: translate(-50%, -50%);
-    height: 627px;
-    width: 311px;
+    height: 600px;
+    width: 300px;
     background-image: url('../imagens/frame-iphone.png');
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #tela {
