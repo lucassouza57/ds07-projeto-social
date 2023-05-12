@@ -44,7 +44,9 @@ main {
     
 }
 
-
+#redes-sociais {
+    margin: 10px;
+}
 
 #redes-sociais img {
     width: 50px;
